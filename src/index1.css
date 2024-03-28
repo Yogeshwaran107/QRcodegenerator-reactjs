@@ -1,0 +1,39 @@
+
+
+.Student{
+    font-family: 'Times New Roman', Times;
+    border: 1px solid black;
+    width:200px;
+    padding: 10px;
+
+}
+.Student p{
+    margin: 0;
+}
+
+.welcome-class{
+    background-color: green;
+}
+.logout-class{
+    background-color:red;
+}
+.list-category{
+     text-align: center;
+     font-size: 30px;
+     color:blue;
+     background-color: aquamarine;
+}
+.list-items{
+
+     list-style: none;
+     font-size: 20px;
+     color: black;
+     
+     text-align: center;
+
+}
+.list-items:hover{
+    color: blue;
+    cursor:pointer;
+    
+}

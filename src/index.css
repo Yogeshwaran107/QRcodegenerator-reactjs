@@ -1,0 +1,31 @@
+.Card{
+    border: 1px solid hsl(0, 0%, 80%);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsl(0, 0%, 80%);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    width: 250px;
+    display: inline-block;
+}
+
+.Card .Card-img{
+    border-radius: 50%;
+    
+     max-width: 60%;
+     height: auto;
+     margin-bottom: 10px;
+     
+
+}
+.Card .Card-Title{
+    
+     margin:0;
+     font-family: Arial, Helvetica, sans-serif;
+     color: hsl(0 4% 40%);
+}
+.Card .description{
+     color: grey;
+     
+}
+
